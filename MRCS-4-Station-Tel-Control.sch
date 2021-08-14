@@ -7714,9 +7714,9 @@ We've spent an enormous amount of time creating and checking these footprints an
 <part name="LED7" library="SPCoast" deviceset="LED*" device="LED5MM" value="White"/>
 <part name="LED8" library="SPCoast" deviceset="LED*" device="LED5MM" value="White"/>
 <part name="J1" library="SPCoast" deviceset="CONNECTOR-M08" device="LOCK" value="LEDs &amp; Buttons ST"/>
-<part name="J2" library="SPCoast" deviceset="CONNECTOR-M08" device="LOCK" value="LEDS &amp; Pwr ST"/>
+<part name="J2" library="SPCoast" deviceset="CONNECTOR-M08" device="LOCK" value="Off-Hook LEDS &amp; Pwr ST"/>
 <part name="CON1" library="SPCoast" deviceset="CONNECTOR-RJ45" device="-FRONT" value="LEDs and Buttons RJ"/>
-<part name="CON2" library="SPCoast" deviceset="CONNECTOR-RJ45" device="-FRONT" value="LEDS &amp; Pwr RJ"/>
+<part name="CON2" library="SPCoast" deviceset="CONNECTOR-RJ45" device="-FRONT" value="Off Hook LEDS &amp; Pwr RJ"/>
 <part name="S1" library="SparkFun-Electromechanical" deviceset="SWITCH-MOMENTARY-2" device="12MM"/>
 <part name="S2" library="SparkFun-Electromechanical" deviceset="SWITCH-MOMENTARY-2" device="12MM"/>
 <part name="S3" library="SparkFun-Electromechanical" deviceset="SWITCH-MOMENTARY-2" device="12MM"/>
